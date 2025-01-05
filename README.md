@@ -10,7 +10,7 @@
 
 ## Description of Dataset 
 The dataset used was obtained from Kaggle and is from a company called “DataCo Global”. It contains supply chain operations from the year 2015 to the 1st quarter of 2018. 
-The dataset includes 3 csv files.
+The dataset includes 3 csv files.[Raw File Download](https://github.com/thatlaconic/DataCo-Supply-Chain-/blob/main/DataCo%20raw%20files.rar)
 1.	DataCoSupplyChainDataset – structured data that contains information in provisioning, production, sales and commercial distribution
 2.	tokenized_access_logs – unstructured data that contains specific product details with ip and url
 3.	DescriptionDataCoSupplyChain – contains category description
@@ -21,11 +21,13 @@ The dataset includes 3 csv files.
 
 ## Data Cleaning Using Excel
 *	Identified and removed irrelevant and redundant information from the dataset that are not needed for this analysis. 
-* Fixed and standardized structural errors such as inconsistent naming discrepancies and mislabeled categories to ensure uniformity in data representation. Functions that were used are CONCAT( ), IF( ), TRIM( ) and filter option. 
+* Fixed and standardized structural errors such as inconsistent naming discrepancies and mislabeled categories to ensure uniformity in data representation. Functions that were used are CONCAT( ), IF( ), TRIM( ) and filter option.
+[Cleaned Data Download](https://github.com/thatlaconic/DataCo-Supply-Chain-/blob/main/DataCo%20cleaned.rar)
 
 ## Visualization Using Power BI
 *	Created an interactive supply chain dashboard with two pages that analyzes the logistics and sales aspect of the dataset provided by DataCo Global.
 *	The dashboard can be filtered by the year, purchase country and market that allows the user to view specific area for trends and findings.
+[Dashboard Download](https://github.com/thatlaconic/DataCo-Supply-Chain-/blob/main/Supply%20Chain%20Dashboard%20for%20DataCo.pbix)
 
 ## Analysis and Insights
 ![](https://github.com/thatlaconic/DataCo-Supply-Chain-/blob/main/logistics.PNG)
