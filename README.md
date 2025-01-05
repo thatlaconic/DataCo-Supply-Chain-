@@ -1,14 +1,14 @@
 # DataCo Supply Chain
 
 ## Table of Contents
-- [Description of Dataset](#DescriptionofDataset)
-- [Objectives](#Objectives)
-- [Data Cleaning Using Excel](#DataCleaningUsingExcel)
-- [Visualization Using Power BI](#VisualizationUsingPowerBI)
-- [Analysis and Insights](#AnalysisandInsights)
-- [Recommendation for Improvements](#RecommendationforImprovements)
+- [Description of Dataset](#description-of-dataset)
+- [Objectives](#objectives)
+- [Data Cleaning Using Excel](#data-cleaning-using-excel)
+- [Visualization Using Power BI](#visualization-using-powerbi)
+- [Analysis and Insights](#analysis-and-insights)
+- [Recommendation for Improvements](#recommendation-for-improvements)
 
-## Description of Dataset
+## Description of Dataset 
 The dataset used was obtained from Kaggle and is from a company called “DataCo Global”. It contains supply chain operations from the year 2015 to the 1st quarter of 2018. 
 The dataset includes 3 csv files.
 1.	DataCoSupplyChainDataset – structured data that contains information in provisioning, production, sales and commercial distribution
