@@ -4,7 +4,7 @@
 - [Description of Dataset](#description-of-dataset)
 - [Objectives](#objectives)
 - [Data Cleaning Using Excel](#data-cleaning-using-excel)
-- [Visualization Using Power BI](#visualization-using-powerbi)
+- [Visualization Using Power BI](#visualization-using-power-bi)
 - [Analysis and Insights](#analysis-and-insights)
 - [Recommendation for Improvements](#recommendation-for-improvements)
 
